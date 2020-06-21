@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Example Laravel CRUD MVP</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="input_note">Input Note</string>
+    <string name="input_mahasiswa">Input Mahasiswa</string>
+    <string name="lihat_note">Lihat Note</string>
+    <string name="lihat_mahasiswa">Lihat Mahasiswa</string>
+    <string name="pagination">Pagination</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="posting">Posting !</string>
+    <string name="nim">Nim</string>
+    <string name="nama">Nama</string>
+    <string name="search">Search</string>
+</resources>
